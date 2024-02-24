@@ -7,10 +7,11 @@
 .terraform/
 
 # Arquivos de plano de execução do Terraform
-plan
-dplan
+plan*
+dplan*
 # Arquivos de backup criados pelo editor de texto
 *~
 
 # Arquivos de log
 *.log
+key.txt
