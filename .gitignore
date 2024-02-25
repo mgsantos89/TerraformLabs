@@ -15,3 +15,4 @@ dplan*
 # Arquivos de log
 *.log
 key.txt
+*kubeconfig
